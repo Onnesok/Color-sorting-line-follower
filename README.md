@@ -47,7 +47,7 @@ Utilizes the **HW067 color sensor** to detect object colors. The robot:
 
 ## 📷 Demo
 
-![Robot Demo](link-to-your-demo-gif-or-image)
+![Robot Demo](https://github.com/Onnesok/Color-sorting-line-follower/blob/main/images/1.jpg)
 
 > _Tip: Upload demo images or a YouTube video link to showcase your robot in action._
 
@@ -63,8 +63,8 @@ Utilizes the **HW067 color sensor** to detect object colors. The robot:
 ```bash
 Smart-Robot/
 │
-├── Code/
-│   └── main.ino            # Arduino code
+├── 461/
+│   └── 461.ino            # Arduino code
 ├── Images/
-│   └── demo.png            # Demo animation
+│   └── 1.jpg            # Robot image
 └── README.md               # Project documentation
